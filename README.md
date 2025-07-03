@@ -1,4 +1,4 @@
-# 📊 internSIG_mergeprod
+# 📊 internSIG_KilnMerge
 
 > Automatisasi penggabungan laporan produksi harian Kiln 1-4 dari file Excel bulanan PT Semen Indonesia
 
